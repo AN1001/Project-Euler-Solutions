@@ -15,10 +15,11 @@ int main() {
         
         int num2 = pow5(aa) + pow5(a) + pow5(b) + pow5(c) + pow5(d) + pow5(e);
         if (i == num2){
-            std::cout << i << endl;
             sum += i;
         }
     }
     
     std::cout << sum;
 }
+
+//Output: 443839
