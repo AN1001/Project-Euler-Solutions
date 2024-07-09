@@ -1,3 +1,4 @@
+#Optimised code for very high digits, not just 1000 digits, far more complicated than needed
 class low_precision_number:
     def __init__(self, first_4_digits, digits):
         self.front = first_4_digits
