@@ -1,7 +1,9 @@
 
-#### Nth fibonacci number is:
+#### Nth fibonacci number is approx:
 
 $$\lceil\frac{\phi^n}{\sqrt{5}}\\rfloor$$
+
+_NB: this comes from Binet's formula, the latter half tends to zero for large n and so can be removed in an approximation_
 
 #### Hence:
 
