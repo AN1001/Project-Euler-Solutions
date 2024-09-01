@@ -7,5 +7,4 @@ Most problems are solved in C++ with one solved in Rust and a few solved with pa
 
 C++ compiled with G++:
 
-```Apple clang version 15.0.0 (clang-1500.3.9.4)```
-```Target: x86_64-apple-darwin23.4.0```
+```Apple clang version 15.0.0```
